@@ -1,3 +1,33 @@
+body {
+    background-color: lightblue;
+}
+
+header {
+    background-color: aliceblue;
+}
+
+footer {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    color: aliceblue;
+    font-style: italic;
+}
+
+img {
+    border: 2px solid orange;
+    width: 250px;
+}
+
+#attributes {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
 /* Give your page a fun background color */
 
 /* Make the header and footer a different color from the background */
