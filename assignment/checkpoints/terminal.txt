@@ -24,14 +24,14 @@ In an empty folder, I would expect no output. In a folder with files, I would ex
 touch
 
 # 7 - Run 'git --version' in your terminal. What is the output?
-
+git version 2.32.1 (Apple Git-133)
 
 # 8 - Why would you run the command 'git status'?
-git version 2.32.1 (Apple Git-133)
+git status shows a comparison between the working directory and the staging area. I would run this command to see a summary of changes I have made but not yet committed.
 
 
 # 9 - What does the command 'git add .' do?
-git add . updates changes in the working directory to the staging area, in preparation to be commited.
+git add . updates changes in the working directory to the staging area, in preparation to be committed.
 
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
